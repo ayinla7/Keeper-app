@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Notes keeper App
 
 This project was built with React.
 
